@@ -1,5 +1,5 @@
 # pandas-challenge
-<<<<<<< HEAD
+
 > **Three Observable Trends**
 
 
